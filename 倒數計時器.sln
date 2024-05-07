@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "倒數計時器", "倒數計時器.csproj", "{F6BA1949-444B-4E7A-B44A-3B4BF2F28367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BA1949-444B-4E7A-B44A-3B4BF2F28367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BA1949-444B-4E7A-B44A-3B4BF2F28367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BA1949-444B-4E7A-B44A-3B4BF2F28367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BA1949-444B-4E7A-B44A-3B4BF2F28367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {567FF110-DCB6-4E1D-96BF-FEEF77BBFBE8}
+	EndGlobalSection
+EndGlobal
